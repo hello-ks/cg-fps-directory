@@ -1,6 +1,6 @@
 {
   "name": "Chhattisgarh ePDS FPS Directory",
-  "description": "Comprehensive District, Sub-District (AFSO/Block), and Fair Price Shop (FPS) directory with codes from epos.cg.gov.in (FPS_Trans_Abstract), featuring interactive explorer, live ePDS network inspector, and data export.",
+  "description": "Comprehensive District, Sub-District, and Fair Price Shop (FPS) directory with mapped ration card numbers, Key Register hierarchy, scheme distributions, live ePDS network inspector, and data export from epos.cg.gov.in.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
